@@ -1,0 +1,27 @@
+{
+        "status": "Production",
+        "thumbnailUrl": "",
+        "bornAt": "",
+        "geography": "Any",
+        "politicalEntity":"",
+        "type":"Utility",
+        "needs": [
+                {"need": "Web Dev"}
+        ],
+        "categories": [
+                {"category": "Web"}
+        ]
+        "owner": {
+            "name": "Guildford Borough Council",
+            "type": "Local council"
+            "@id": "http://www.guildford.gov.uk/"
+        }
+        "deployments": []
+        "serviceCategories" []
+        "technologies" [
+            {
+                "name": "C#",
+                "@id": "http://www.microsoft.com/C#",
+            },
+        ]
+}
