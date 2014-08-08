@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>GuildfordBoroughCouncil.Web.Elmah</id>
+    <version>1.0.0</version>
+    <authors>Ben Cheetham</authors>
+    <owners>Guildford Borough Council</owners>
+    <licenseUrl>https://github.com/GuildfordBC/web-elmah/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/GuildfordBC/web-elmah</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add ELMAH error handling to ASP.NET MVC sites and WCF web services.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <dependencies>
+      <dependency id="elmah.corelibrary" />
+      <dependency id="Microsoft.AspNet.WebApi.Core" />
+      <dependency id="Newtonsoft.Json" />
+    </dependencies>
+  </metadata>
+</package>
