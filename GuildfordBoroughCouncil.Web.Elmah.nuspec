@@ -13,6 +13,7 @@
     <copyright>Copyright 2014</copyright>
     <dependencies>
       <dependency id="elmah.corelibrary" />
+      <dependency id="Microsoft.AspNet.WebApi.Client" />
       <dependency id="Microsoft.AspNet.WebApi.Core" />
       <dependency id="Newtonsoft.Json" />
     </dependencies>
